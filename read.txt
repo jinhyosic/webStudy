@@ -1,0 +1,3 @@
+DB : mysql workbench 8.0CE
+PHP 8.1
+Apache2.4
